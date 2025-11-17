@@ -1,1 +1,1 @@
-This is Nova_Pro
+This is Apex_acadmey template
